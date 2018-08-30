@@ -1,6 +1,11 @@
 # QiNiuUploadImage
 七牛图片上传
 
+#使用方式：    
+替换宏文件  
+#define Scope @""  
+#define AccessKey @""  
+#define SecretKey @""
 
 #思路：1、获取图片 2、沙盒路径存储 3、将路径提交七牛
 
