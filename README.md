@@ -14,3 +14,6 @@
       error=bad token   
           2、Code=614 "(null)" UserInfo={error=file exists} 文件名重复
     修改key字段即可   NSString * key = @"dcx"; 
+![image.png](https://upload-images.jianshu.io/upload_images/7915183-af53c51109f41bf9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/7915183-c69bd9a27cd8b0a3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/7915183-98e2d2af84495812.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
